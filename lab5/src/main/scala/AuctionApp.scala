@@ -1,5 +1,3 @@
-package main.scala
-
 import akka.actor.{ActorSystem, Props}
 import auction.{AuctionManager, AuctionPublisher, AuctionSearch, Notifier}
 import com.typesafe.config.ConfigFactory

@@ -1,4 +1,4 @@
-package main.scala.auction
+package auction
 
 import akka.actor.{Actor, ActorLogging, Status}
 

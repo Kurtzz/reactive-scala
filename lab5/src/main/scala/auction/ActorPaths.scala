@@ -1,4 +1,4 @@
-package main.scala.auction
+package auction
 
 /**
   * Created by P on 28.10.2016.

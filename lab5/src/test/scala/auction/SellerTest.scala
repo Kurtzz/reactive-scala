@@ -1,4 +1,4 @@
-package test.scala.auction
+package auction
 
 import akka.actor.{ActorSystem, Props}
 import akka.testkit.{ImplicitSender, TestKit, TestProbe}

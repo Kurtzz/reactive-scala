@@ -1,4 +1,4 @@
-package main.scala.auction
+package auction
 
 import java.util.concurrent.TimeUnit
 

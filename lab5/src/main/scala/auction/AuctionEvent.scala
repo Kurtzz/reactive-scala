@@ -1,4 +1,4 @@
-package main.scala.auction
+package auction
 
 import akka.actor.ActorRef
 import org.joda.time.DateTime
